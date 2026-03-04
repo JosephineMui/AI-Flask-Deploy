@@ -1,2 +1,5 @@
+# This file lists the dependencies for the Flask application. It includes the requests 
+# library for making HTTP requests, and the gradio library for creating the user interface.
+# To install these dependencies, you can run: pip install -r requirements.txt
 requests
 gradio==5.23.2
